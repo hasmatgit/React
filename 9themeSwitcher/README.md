@@ -1,4 +1,4 @@
-# Light & Dark mode Card
+# Light & Dark Mode Card.
 
 
 ![alt text](image.png)
